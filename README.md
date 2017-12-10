@@ -1,4 +1,4 @@
-# HW - {hangman-node-wk11}
+# Hangman CLI
 
 Use the CLI prompt to guess letters for the current Hangman word. After each word is guessed correctly or all 9 tries have been used, a new word will be provided to continue the game.
 
